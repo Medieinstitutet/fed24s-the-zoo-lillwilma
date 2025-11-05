@@ -71,13 +71,7 @@ Ha roligt, skratta och lär er massor!
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla krav för betyg G. Applikationen använder react-router-dom för routing och visar olika sidor, inklusive layout, child-routes, och error-element. Djuren hämtas från API:et och visas korrekt, och inklusive hantering av trasiga bildlänkar. Det finns en funktionalitet för att mata djuren enligt reglerna, och användning av en annan teknik än ren CSS för styling (SCSS) är implementerad.
+📌 **Motivering:** Koden uppfyller alla krav för betyget G inklusive routing, matning och datahämtning samt styling.
 
 💡 **Förbättringsförslag:**  
-För att uppnå ett högre betyg behöver följande förbättringar implementeras: 
-- Använda en custom hook eller tjänst för att hämta data. Detta skulle ge en bättre separation av logik och komponenter och förbättra kodens återanvändbarhet.
-- Använd Context API istället för props för att kommunicera mellan komponenter, vilket gör koden mer skalbar.
-- Implementera reducers istället för useState för att hantera djurens matning.
-- Vid matning och retur till djurens navigeringssida bör matningen nollställas vid korrekta tider. 
-- Status för djuren bör presenteras mer diskret på översiktssidan.
-- Använd subtila animeringar vid klick på knappar, förändringar av sidor eller routes för bättre användarupplevelse.
+För betyget VG behövs klarare implementationer av Context-API och Reducers för hantering av state.

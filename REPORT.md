@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla krav för betyget G inklusive routing, matning och datahämtning samt styling.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Koden uppfyller alla krav för VG betyget. Det finns en klar struktur, korrekt användning av context och reducers, samt bra hantering av fel och animeringar.
 
 💡 **Förbättringsförslag:**  
-För betyget VG behövs klarare implementationer av Context-API och Reducers för hantering av state.
+Förbättra kodens dokumentation och kommentarer för att göra den enklare för framtida utvecklare att förstå och underhålla. Vidare kan responsiv design förbättras för att hantera olika skärmstorlekar effektivt.

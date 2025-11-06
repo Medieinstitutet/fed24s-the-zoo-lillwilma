@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för VG betyget. Det finns en klar struktur, korrekt användning av context och reducers, samt bra hantering av fel och animeringar.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
 
 💡 **Förbättringsförslag:**  
-Förbättra kodens dokumentation och kommentarer för att göra den enklare för framtida utvecklare att förstå och underhålla. Vidare kan responsiv design förbättras för att hantera olika skärmstorlekar effektivt.
+Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.

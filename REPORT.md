@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyget G. Koden är välstrukturerad, och de nödvändiga funktionaliteterna som routing, djuröversikt och felhantering av trasiga bildlänkar är korrekt implementerade. Dock saknas vissa aspekter för att uppnå VG, såsom subtila animeringar, förbättrad matningslogik och reducering av kodupprepningar.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och organiserad enligt konventioner för frontend-utveckling. Funktionaliteten för att mata djur och hantera trasiga bildlänkar är korrekt implementerad. Användningen av en router och en alternativ teknik för styling är också korrekt. Projektet saknar dock avancerade funktioner som krävs för betyget VG, såsom användning av context och reducers samt subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-För att nå VG bör studenten implementera subtila animeringar vid knapptryck och sidladdningar, förbättra matningslogiken för att hantera alla tidskrav korrekt, och minska kodupprepningar genom att skapa fler återanvändbara komponenter. Dessutom kan användning av context och reducers optimeras för bättre hantering av applikationens tillstånd.
+För att nå betyget VG, bör projektet implementera context och reducers för tillståndshantering istället för att använda props och state. Lägg till subtila animeringar vid interaktioner och sidladdningar för att förbättra användarupplevelsen. Överväg prestandaoptimeringar som lazy loading av bilder och komponenter. Förbättra säkerheten genom att hantera användardata och API-anrop mer robust.

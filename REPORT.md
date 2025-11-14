@@ -66,10 +66,10 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 Ha roligt, skratta och lär er massor!
 
 ## 🔍 ESLint-varningar:
-- C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
+- /app/repos/fed24s-the-zoo-lillwilma/src/hooks/useAnimals.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och organiserad enligt konventioner för frontend-utveckling. Funktionaliteten för att mata djur och hantera trasiga bildlänkar är korrekt implementerad. Användningen av en router och en alternativ teknik för styling är också korrekt. Projektet saknar dock avancerade funktioner som krävs för betyget VG, såsom användning av context och reducers samt subtila animeringar.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för både G och VG, inklusive användning av context och reducers för state-hantering, samt subtila animeringar. Koden är välstrukturerad och funktionaliteten är fullständig. Projektet visar på en god förståelse för avancerad frontend-utveckling, och de mindre bristerna är inte tillräckligt betydande för att sänka betyget.
 
 💡 **Förbättringsförslag:**  
-För att nå betyget VG, bör projektet implementera context och reducers för tillståndshantering istället för att använda props och state. Lägg till subtila animeringar vid interaktioner och sidladdningar för att förbättra användarupplevelsen. Överväg prestandaoptimeringar som lazy loading av bilder och komponenter. Förbättra säkerheten genom att hantera användardata och API-anrop mer robust.
+Förbättra felhanteringen med mer specifika felmeddelanden och återhämtningsstrategier. Minska kodupprepning genom att extrahera gemensam logik till hjälpfunktioner eller hooks. Lägg till fler kommentarer för att förklara komplex logik, vilket skulle underlätta för andra utvecklare att förstå koden.

@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-lillwilma\src\hooks\useAnimals.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet 'The Zoo' uppfyller alla krav för både betyg G och VG. Koden är välstrukturerad med en logisk filorganisation och tydlig komponentuppdelning. Funktionaliteten är komplett och följer best practices för frontend-utveckling. Användningen av context och reducers visar på en djupare förståelse för state management. Trots vissa mindre förbättringsområden är projektet exceptionellt väl implementerat och förtjänar det högsta tillåtna betyget.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyget G. Koden är välstrukturerad, och de nödvändiga funktionaliteterna som routing, djuröversikt och felhantering av trasiga bildlänkar är korrekt implementerade. Dock saknas vissa aspekter för att uppnå VG, såsom subtila animeringar, förbättrad matningslogik och reducering av kodupprepningar.
 
 💡 **Förbättringsförslag:**  
-Förbättra felhantering för bildlänkar genom att implementera fallback-mekanismer eller placeholders när bilder inte kan laddas. Optimera prestanda genom att minska kodupprepning och använda tekniker som lazy loading för bilder och komponenter. Förbättra hanteringen av stora datamängder genom att överväga användning av memoization eller web workers.
+För att nå VG bör studenten implementera subtila animeringar vid knapptryck och sidladdningar, förbättra matningslogiken för att hantera alla tidskrav korrekt, och minska kodupprepningar genom att skapa fler återanvändbara komponenter. Dessutom kan användning av context och reducers optimeras för bättre hantering av applikationens tillstånd.
